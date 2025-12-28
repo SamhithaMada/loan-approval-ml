@@ -75,7 +75,7 @@ In real-world financial systems:
 Therefore, this project intentionally avoids public deployment to prevent misleading interpretations.
 
 ---
-
+```
 ## 📁 Project Structure
 
 loan_approval_ml/
@@ -92,7 +92,7 @@ loan_approval_ml/
 │
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
